@@ -1,0 +1,7 @@
+# Arduino / IDE build outputs
+*.hex
+*.bin
+*.elf
+build/
+.vscode/
+.idea/
